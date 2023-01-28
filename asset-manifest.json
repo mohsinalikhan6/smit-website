@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/smit-website/static/css/main.7d465718.css",
+    "main.js": "/smit-website/static/js/main.4747711d.js",
+    "static/js/787.c408cc4f.chunk.js": "/smit-website/static/js/787.c408cc4f.chunk.js",
+    "static/media/1.jpg": "/smit-website/static/media/1.2665f6057b8050d4fd52.jpg",
+    "static/media/14.jpg": "/smit-website/static/media/14.32af4f7533137d224950.jpg",
+    "static/media/5.jpg": "/smit-website/static/media/5.2347ed9337cdfcfc3d6c.jpg",
+    "static/media/12.jpg": "/smit-website/static/media/12.6ec3a7a2450a74033ec7.jpg",
+    "static/media/4.jpg": "/smit-website/static/media/4.d042bbd4a21947015eaa.jpg",
+    "static/media/30.jpg": "/smit-website/static/media/30.77775e8f0f23a0582b06.jpg",
+    "static/media/graphics.jpg": "/smit-website/static/media/graphics.1e8a97c4b644ee4aeac1.jpg",
+    "static/media/22.jpg": "/smit-website/static/media/22.4b1448c667a6448e8afb.jpg",
+    "static/media/31.jpg": "/smit-website/static/media/31.b40378e475b4fe9b009c.jpg",
+    "static/media/ccna.jpg": "/smit-website/static/media/ccna.e03957811e43362a894a.jpg",
+    "static/media/web2.jpg": "/smit-website/static/media/web2.eeecfc2a2e639966623d.jpg",
+    "static/media/contact.jpg": "/smit-website/static/media/contact.cb3b368fd4547c9fe8c5.jpg",
+    "static/media/21.jpg": "/smit-website/static/media/21.0544953a9cbca07cc3d5.jpg",
+    "static/media/24.jpg": "/smit-website/static/media/24.67758e1b1b75d4eaecf7.jpg",
+    "index.html": "/smit-website/index.html",
+    "main.7d465718.css.map": "/smit-website/static/css/main.7d465718.css.map",
+    "main.4747711d.js.map": "/smit-website/static/js/main.4747711d.js.map",
+    "787.c408cc4f.chunk.js.map": "/smit-website/static/js/787.c408cc4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d465718.css",
+    "static/js/main.4747711d.js"
+  ]
+}
